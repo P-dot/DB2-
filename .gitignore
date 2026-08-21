@@ -1,0 +1,4 @@
+**/evidence/raw/*
+!**/evidence/raw/.gitkeep
+*.log
+*.tmp

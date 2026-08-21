@@ -1,0 +1,10 @@
+-- Successful catalog inventory
+SELECT NAME
+FROM SYSIBM.SYSDATABASE
+ORDER BY NAME;
+
+-- Troubleshooting case retained intentionally
+SELECT DBNAME, NAME
+FROM SYSIBM.SYSTABLESPACE
+ORDER BY DBNAME, NAME;
+-- Observed: SQLCODE -206 / SQLSTATE 42703
