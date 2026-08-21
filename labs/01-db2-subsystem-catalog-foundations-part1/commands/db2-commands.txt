@@ -1,7 +1,6 @@
-# Successful
 -DISPLAY THREAD(*)
 -DISPLAY DDF
 
-# Troubleshooting evidence
-# Earlier DISPLAY THREAD syntax with invalid PLAN/TYPE parameters was rejected.
-# DISPLAY DATABASE attempt was rejected by the installed command environment.
+# Troubleshooting:
+# Previous DISPLAY THREAD syntax with PLAN/TYPE was rejected.
+# DISPLAY DATABASE attempt was rejected by the installed environment.

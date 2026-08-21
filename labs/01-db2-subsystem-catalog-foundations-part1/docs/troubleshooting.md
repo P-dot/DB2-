@@ -1,36 +1,25 @@
 # Troubleshooting
 
-## Caso 1 — DISPLAY THREAD con parámetros inválidos
-**Síntomas:** `DSN9015I`, `DSN9001I`, `DSN9023I`.
+## DISPLAY THREAD
+Un intento anterior con parámetros PLAN/TYPE fue rechazado. Se corrigió a:
+`-DISPLAY THREAD(*)`
+Resultado: `NORMAL COMPLETION`.
 
-**Corrección aplicada:**
-```text
--DISPLAY THREAD(*)
-```
+## DISPLAY DATABASE
+El intento fue rechazado con keyword inválida y `ABNORMAL COMPLETION`. No se siguieron probando variantes a ciegas.
 
-**Resultado:** `DSN9022I ... NORMAL COMPLETION`.
+## SPUFI — DSNE803A
+Se observó `INPUT FILE WAS NOT CHANGED` durante el flujo de edición. No debe confundirse con un SQLCODE.
 
-## Caso 2 — DISPLAY DATABASE rechazado
-**Síntomas:** keyword inválida y `ABNORMAL COMPLETION`.
-
-**Decisión:** no probar variantes a ciegas. Documentar y continuar mediante catálogo/SPUFI.
-
-## Caso 3 — DSNE803A INPUT FILE WAS NOT CHANGED
-Mensaje del flujo de SPUFI/edición. No debe confundirse automáticamente con un SQLCODE.
-
-## Caso 4 — SQLCODE -206
-**SQL:**
+## SQLCODE -206
+Sentencia:
 ```sql
 SELECT DBNAME, NAME
 FROM SYSIBM.SYSTABLESPACE
 ORDER BY DBNAME, NAME;
 ```
+Resultado observado:
+`SQLCODE = -206`
+`SQLSTATE = 42703`
 
-**Resultado:**
-```text
-SQLCODE = -206
-SQLSTATE = 42703
-DBNAME IS NOT VALID IN THE CONTEXT WHERE IT IS USED
-```
-
-**Decisión:** inspeccionar en la Parte 2 las columnas reales del catálogo de este release antes de continuar.
+Decisión: detener aquí la Parte 1 e inspeccionar en la Parte 2 la estructura real del catálogo del release instalado.
