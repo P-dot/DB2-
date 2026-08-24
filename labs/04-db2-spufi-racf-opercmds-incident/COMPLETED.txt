@@ -1,0 +1,14 @@
+LAB 04 — Db2 SPUFI outage: RACF OPERCMDS root-cause analysis and recovery
+
+STATUS: COMPLETED
+
+Validated:
+- DB9G abnormal termination observed
+- ICH408I authorization denial correlated to MVS START
+- OPERCMDS identified as controlling class
+- UPDATE authority requirement validated
+- dump allocation failure separated from root cause
+- security rollback/correction restored Db2 startup
+- DB2I/SPUFI access restored
+
+Lab 05 will cover Db2 SQL DDL/DML separately.
