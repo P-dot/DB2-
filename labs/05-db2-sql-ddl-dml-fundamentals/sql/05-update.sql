@@ -1,0 +1,1 @@
+-- UPDATE ejecutados sobre las filas de LAB02 y verificados posteriormente con SELECT.

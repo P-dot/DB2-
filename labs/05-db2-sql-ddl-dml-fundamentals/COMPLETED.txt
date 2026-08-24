@@ -1,0 +1,2 @@
+LAB 05 COMPLETED
+Db2 SQL DDL/DML fundamentals validated through SPUFI.

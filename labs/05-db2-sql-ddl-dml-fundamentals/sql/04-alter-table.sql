@@ -1,0 +1,1 @@
+-- ALTER TABLE ejecutado para ampliar la estructura de LAB02.

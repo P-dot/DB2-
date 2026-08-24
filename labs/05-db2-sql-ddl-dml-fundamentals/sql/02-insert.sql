@@ -1,0 +1,1 @@
+-- INSERT de las filas de prueba ejecutado mediante SPUFI.

@@ -1,0 +1,2 @@
+-- CREATE TABLE ejecutado durante el laboratorio
+-- La definición exacta completa queda preservada en las evidencias originales de SPUFI.

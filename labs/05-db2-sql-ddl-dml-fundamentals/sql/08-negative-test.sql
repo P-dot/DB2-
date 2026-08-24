@@ -1,0 +1,3 @@
+SELECT *
+FROM IBMUSER.LAB02;
+-- Resultado observado tras DROP: SQLCODE -204 / SQLSTATE 42704
