@@ -1,0 +1,3 @@
+LAB 06 COMPLETED
+Db2 SQL subqueries, aggregation, correlated subqueries and TOP-N validated in SPUFI.
+Troubleshooting evidence for SQLCODE -104 retained.
