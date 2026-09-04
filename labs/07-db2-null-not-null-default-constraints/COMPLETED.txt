@@ -1,0 +1,4 @@
+LAB 07 COMPLETED
+NULL / NOT NULL / NOT NULL WITH DEFAULT validated.
+SQLCODE -407 / SQLSTATE 23502 negative test documented.
+Final verification completed.
