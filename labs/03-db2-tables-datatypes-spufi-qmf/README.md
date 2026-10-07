@@ -85,3 +85,12 @@ The tutorial block is complete. The lab demonstrates the relational table struct
 
 ## Boundary
 Catalog administration, EXPLAIN, access-path analysis, index tuning and advanced QMF functions are outside this lab.
+
+
+---
+### Continue learning
+
+**Previous:** [02-db2-catalog-introspection-objects-indexes-part2](../02-db2-catalog-introspection-objects-indexes-part2/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [04-db2-spufi-racf-opercmds-incident](../04-db2-spufi-racf-opercmds-incident/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

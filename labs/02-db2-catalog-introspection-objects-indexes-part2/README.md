@@ -94,3 +94,12 @@ The errors are intentionally retained because they document diagnosis and correc
 
 ## Boundary
 EXPLAIN, access paths, clustering strategy, index design and performance tuning are intentionally left for later labs.
+
+
+---
+### Continue learning
+
+**Previous:** [01-db2-subsystem-catalog-foundations-part1](../01-db2-subsystem-catalog-foundations-part1/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [03-db2-tables-datatypes-spufi-qmf](../03-db2-tables-datatypes-spufi-qmf/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

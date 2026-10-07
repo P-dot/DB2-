@@ -28,3 +28,12 @@ demuestra además que `NULL` es válido cuando la definición de la columna lo p
 y que Db2 protege una columna `NOT NULL` rechazando la operación incompatible.
 
 **STATUS: COMPLETED**
+
+
+---
+### Continue learning
+
+**Previous:** [06-db2-sql-subqueries-aggregation-top-n](../06-db2-sql-subqueries-aggregation-top-n/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [Choose the next Academy course](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

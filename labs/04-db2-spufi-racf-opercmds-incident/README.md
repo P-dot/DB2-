@@ -98,3 +98,12 @@ Root cause category: **RACF authorization / OPERCMDS hardening interaction**
 Service restored: **Db2 DB9G + DB2I/SPUFI operational**
 
 Next lab: **Lab 05 — Db2 SQL DDL and DML fundamentals**, kept separate so that this incident remains a focused troubleshooting/security engineering case study.
+
+
+---
+### Continue learning
+
+**Previous:** [03-db2-tables-datatypes-spufi-qmf](../03-db2-tables-datatypes-spufi-qmf/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [05-db2-sql-ddl-dml-fundamentals](../05-db2-sql-ddl-dml-fundamentals/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

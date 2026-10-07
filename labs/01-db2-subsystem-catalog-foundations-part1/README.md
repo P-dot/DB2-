@@ -33,3 +33,12 @@ La Parte 2 comenzará inspeccionando el catálogo real antes de continuar con:
 ## Evidencias
 Las capturas reales están en `evidence/screenshots/`.
 La captura DDF incluida ha sido sanitizada para ocultar información de red.
+
+
+---
+### Continue learning
+
+**Previous:** Course introduction  
+**Course:** [Course home](../../README.md)  
+**Next:** [02-db2-catalog-introspection-objects-indexes-part2](../02-db2-catalog-introspection-objects-indexes-part2/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

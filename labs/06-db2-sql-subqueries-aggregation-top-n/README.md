@@ -35,3 +35,12 @@ Durante TOP-N apareció `SQLCODE -104`. La investigación terminó mostrando que
 COMMIT/ROLLBACK no forma parte de este laboratorio.
 
 **STATUS: COMPLETED**
+
+
+---
+### Continue learning
+
+**Previous:** [05-db2-sql-ddl-dml-fundamentals](../05-db2-sql-ddl-dml-fundamentals/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [07-db2-null-not-null-default-constraints](../07-db2-null-not-null-default-constraints/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)
