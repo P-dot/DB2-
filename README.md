@@ -301,3 +301,14 @@ Db2 for z/OS is part of the Academy data-and-storage path. Learn the physical st
 **Path:** [VSAM / IDCAMS](https://github.com/P-dot/vsam01) → **Db2 (this course)** → [COBOL/CICS integration](https://github.com/P-dot/mainframe-cobol-db2-cics-devops-lab) → [Problem Determination](https://github.com/P-dot/zos-problem-determination-diagnostics).
 
 [Open the z/OS Engineering Academy →](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md)
+
+
+---
+
+## z/OS Engineering Academy
+
+**Academy role:** Data School — relational data on z/OS, connected to batch, applications and physical storage.
+
+[Start the Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Course Catalog](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md) · [Curriculum Graph](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md) · [Cross-Domain Relationships](https://github.com/P-dot/P-dot/blob/main/docs/RELATIONSHIPS.md)
+
+> Learn the concept → execute the lab → interpret the evidence → understand the subsystem boundary → continue to the next connected course.
