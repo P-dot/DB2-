@@ -281,3 +281,23 @@ Public evidence should demonstrate engineering methodology without unnecessarily
 ---
 
 > Part of the **IBM z/OS Mainframe Engineering Portfolio** — an independent hands-on environment focused on systems, operations, development, security, automation, diagnostics, and recovery.
+
+---
+
+## Academy bridge — what sits below Db2 SQL
+
+Db2 for z/OS is taught here as both a relational subsystem and a consumer of z/OS storage services. Db2 page sets are backed by VSAM data sets, while DFSMS/SMS can participate in management of Db2 disk data sets. Learners should therefore connect SQL objects to their physical z/OS storage context instead of treating Db2 as an isolated database server.
+
+**Recommended path:** [VSAM / IDCAMS](https://github.com/P-dot/vsam01) → **Db2 catalog, SQL and objects (this course)** → [COBOL/CICS integration](https://github.com/P-dot/mainframe-cobol-db2-cics-devops-lab) → [RACF/SAF](https://github.com/P-dot/mainframe-racf-security-evidence) → [diagnostics & recovery](https://github.com/P-dot/zos-problem-determination-diagnostics).
+
+[Open the z/OS Engineering Academy →](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md)
+
+---
+
+## Academy learning path
+
+Db2 for z/OS is part of the Academy data-and-storage path. Learn the physical storage layer first, then connect relational objects to application execution and recovery.
+
+**Path:** [VSAM / IDCAMS](https://github.com/P-dot/vsam01) → **Db2 (this course)** → [COBOL/CICS integration](https://github.com/P-dot/mainframe-cobol-db2-cics-devops-lab) → [Problem Determination](https://github.com/P-dot/zos-problem-determination-diagnostics).
+
+[Open the z/OS Engineering Academy →](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md)
